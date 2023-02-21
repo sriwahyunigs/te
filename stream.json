@@ -114,7 +114,7 @@
       "title": "RCTI",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/rcti.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://www.inews.id/embed_video/YWdlbnQ9bW9iaWxlJnVybD1odHRwcyUzQSUyRiUyRmVtYmVkLnJjdGlwbHVzLmNvbSUyRmxpdmUlMkZyY3RpJTJGaW5ld3NpZCZoZWlnaHQ9MTAwJTI1JndpZHRoPTEwMCUyNQ==",
+      "streaming_url": "https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?auth_key=1677006538-9bdeee5e29c5d127d9758a7530d80071-CHzfMNEJbUIWNzZfSCO12JmFAbrZAyodZ0BIhwez-856dac897cfad5fb03f13137a4e2700e",
 	  "user_agent": ""
     },
 	{
@@ -123,7 +123,7 @@
       "title": "GTV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/gtv.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://www.inews.id/embed_video/YWdlbnQ9bW9iaWxlJnVybD1odHRwcyUzQSUyRiUyRmVtYmVkLnJjdGlwbHVzLmNvbSUyRmxpdmUlMkZndHYlMkZpbmV3c2lkJmhlaWdodD0xMDAlMjUmd2lkdGg9MTAwJTI1",
+      "streaming_url": "https://rctiplus.id/gtv-sdi.m3u8?auth_key=1677007322-bfab490b536715e32e70b6e21ae32214-HUbViBgnmVmf77gNIKdEzhGkKPCEZF0BoxLMuHX8-a5bba4a824dcff32458b8696e1c97623",
 	  "user_agent": ""
     },
 	{
@@ -186,7 +186,7 @@
       "title": "MNC TV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/mnctv.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://www.inews.id/embed_video/YWdlbnQ9bW9iaWxlJnVybD1odHRwcyUzQSUyRiUyRmVtYmVkLnJjdGlwbHVzLmNvbSUyRmxpdmUlMkZtbmN0diUyRmluZXdzaWQmaGVpZ2h0PTEwMCUyNSZ3aWR0aD0xMDAlMjU=",
+      "streaming_url": "https://ctiplus.id/mnctv-sdi.m3u8?auth_key=1677007393-e4dae6a36dfe84a59b4b5aa5c21367c4-HUbViBgnmVmf77gNIKdEzhGkKPCEZF0BoxLMuHX8-0767cbd0eb9361df0809c97574af7508",
 	  "user_agent": ""
     },
 	{
