@@ -18,7 +18,7 @@
   ],
   "ads": [
     {
-      "ad_status": 1,
+      "ad_status": 0,
       "main_ad": "admob",
       "backup_ad": "none",
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
