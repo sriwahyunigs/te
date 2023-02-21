@@ -114,11 +114,20 @@
       "title": "MNC TV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/mnctv.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://mnctv-linier.rctiplus.id/mnctv-sdi-avc1_210000=3-mp4a_96000=1.m3u8?auth_key=1677024002-d6d61c974b2fee4d7c299fbefbdaa0cd-RjuRt2F2hR42lPUELy2JZOkojZHhF92QpNMaduHL-e36affe593dfec0ef116343d22128bee",
+      "streaming_url": "https://mnctv-linier.rctiplus.id/mnctv-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677024595-4b7a656d7f5b2418e6a5ab30d66aa0cb-pGufhMAkrwbLzXNfFWAO2dG2lqvGMZ9LLUy2kivj-f82f1e47638e50d2640cacb521d78704",
 	  "user_agent": ""
     },
 	  {
-      "id":3,
+      "id": 3,
+      "category": "Entertainment, National",
+      "title": "ANTV",
+      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/12/26/4057488425.jpeg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "http://210.210.155.37/qwr9ew/s/s07/index1.m3u8",
+	  "user_agent": ""
+    },
+	  {
+      "id": 4,
       "category": "Entertainment, National",
       "title": "RCTI",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/rcti.png",
@@ -127,7 +136,7 @@
 	  "user_agent": ""
     },
     {
-      "id": 4,
+      "id": 5,
       "category": "Entertainment, National",
       "title": "SCTV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/sctv.png",
@@ -136,7 +145,7 @@
 	  "user_agent": ""
     },
 	  {
-      "id": 5,
+      "id": 6,
       "category": "Entertainment, National",
       "title": "Trans 7",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/trans7.png",
@@ -145,7 +154,7 @@
 	  "user_agent": ""
     },
 	  {
-      "id": 6,
+      "id": 7,
       "category": "Entertainment, National",
       "title": "Trans TV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/transtv.png",
@@ -154,7 +163,7 @@
 	  "user_agent": ""
     },
 	{
-      "id": 7,
+      "id": 8,
       "category": "Entertainment, National",
       "title": "GTV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/gtv.png",
@@ -162,8 +171,26 @@
       "streaming_url": "https://gtv-linier.rctiplus.id/gtv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677021635-68fe85144f31fa4038f81b8e511b22cf-xZO2sPZTJ2qdyPZ9fnWMDuvWdVtwNkhj4r1JbSCM-887ea8bd8a74bff68f5f3f95707860e4",
 	  "user_agent": ""
     },
+	  {
+      "id": 9,
+      "category": "Entertainment, National",
+      "title": "NET",
+      "image": "https://www.lyngsat.com/logo/tv/nn/net-id.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "http://rr2.dens.tv/s/s08/index.m3u8",
+	  "user_agent": ""
+    },
+	  {
+      "id": 10,
+      "category": "Entertainment, National",
+      "title": "RTV",
+      "image": "https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8",
+	  "user_agent": ""
+    },
 	{
-      "id": 8,
+      "id": 11,
       "category": "News",
       "title": "TV ONE",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/tvone.png",
@@ -172,7 +199,7 @@
 	  "user_agent": ""
     },
 	  {
-      "id": 9,
+      "id": 12,
       "category": "News",
       "title": "I News",
       "image": "https://photos.live-tv-channels.org/tv-logo/inews-tv-5603-w360.webp",
@@ -181,7 +208,25 @@
 	  "user_agent": ""
     },
 	  {
-      "id": 10,
+      "id": 13,
+      "category": "News",
+      "title": "Metro TV",
+      "image": "https://i.ibb.co/h2JP83B/metro.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8",
+	  "user_agent": ""
+    },
+	  {
+      "id": 14,
+      "category": "News",
+      "title": "Kompas TV",
+      "image": "https://i.ibb.co/4fJGnnf/kompas.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "https://live-kg.jixie.media/live/kompastv_lhd.m3u8",
+	  "user_agent": ""
+    },
+	  {
+      "id": 15,
       "category": "News, National",
       "title": "CNN Indonesia",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/cnn.png",
@@ -190,7 +235,7 @@
 	  "user_agent": ""
     },
 	  {
-      "id": 11,
+      "id": 16,
       "category": "News, National",
       "title": "Berita Satu",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/beritasatu.png",
@@ -198,8 +243,17 @@
       "streaming_url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8",
 	  "user_agent": ""
     },
+	  {
+      "id": 17,
+      "category": "News, National",
+      "title": "CNBC Indonesia",
+      "image": "https://i.ibb.co/sF1ZMLr/cnbc.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8",
+	  "user_agent": ""
+    },
 	{
-      "id": 12,
+      "id": 18,
       "category": "National",
       "title": "TVRI",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/tvri.png",
@@ -208,7 +262,7 @@
 	  "user_agent": ""
     },
 	{
-      "id": 13,
+      "id": 19,
       "category": "Regional",
       "title": "ADI TV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/aditv.png",
@@ -217,7 +271,7 @@
 	  "user_agent": ""
     },
 	{
-      "id": 14,
+      "id": 20,
       "category": "Religion",
       "title": "Rodja TV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/rodjatv.png",
@@ -226,7 +280,7 @@
 	  "user_agent": ""
     },
 	{
-      "id": 15,
+      "id": 21,
       "category": "Religion, World",
       "title": "Aljazeera",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/aljazeera.png",
@@ -235,7 +289,7 @@
 	  "user_agent": ""
     },
 	{
-      "id": 16,
+      "id": 22,
       "category": "World, News",
       "title": "CBS News",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/cbsn.png",
