@@ -114,7 +114,7 @@
       "title": "MNC TV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/mnctv.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://mnctv-linier.rctiplus.id/mnctv-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1677024595-4b7a656d7f5b2418e6a5ab30d66aa0cb-pGufhMAkrwbLzXNfFWAO2dG2lqvGMZ9LLUy2kivj-f82f1e47638e50d2640cacb521d78704",
+      "streaming_url": "ttp://103.167.167.5:8111/play/a011/index.m3u8",
 	  "user_agent": ""
     },
 	  {
