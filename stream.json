@@ -114,8 +114,8 @@
       "title": "MNC TV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/mnctv.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://www.inews.id/embed_video/YWdlbnQ9bW9iaWxlJnVybD1odHRwcyUzQSUyRiUyRmVtYmVkLnJjdGlwbHVzLmNvbSUyRmxpdmUlMkZtbmN0diUyRmluZXdzaWQmaGVpZ2h0PTEwMCUyNSZ3aWR0aD0xMDAlMjU=",
-	  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+      "streaming_url": "https://d-mnctv.rctiplus.id/mnctv-sdi-avc1_450000=4-mp4a_96000=1.m3u8?auth_key=1678224022-9dd8281b79b5239e1ea4b4d328808cf1-OGdizHDnidXWyCS1CXDREiJeCCi7x0slTefYMvtz-a37d9af5973a243fb58dea4aece48a98",
+	  "user_agent": ""
     },
 	  {
       "id": 3,
