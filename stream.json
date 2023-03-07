@@ -9,7 +9,7 @@
       "enable_rtl_mode": false,
       "enable_exit_dialog": true,
       "enable_app_protection": false,
-      "enable_vpn_access": false,
+      "enable_vpn_access": true,
       "enable_dark_mode_as_default_theme": false,
       "landscape_mode_as_default_player_orientation": false,
       "youtube_api_key": "AIzaSyCbehD6DCeDZHaGlXXXXXXXXXXXXXXXXX",
