@@ -204,7 +204,7 @@
       "title": "I News",
       "image": "https://photos.live-tv-channels.org/tv-logo/inews-tv-5603-w360.webp",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://inews-linier.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1677022219-95b1e84fc974ad2cf2949edc68e7d651-3h282QINivm9gn8hBZsa87ow7X2tGkgdgW3gzWLc-a54b356ad9e81df3ea5116d32ff090e9",
+      "streaming_url": "https://d-inews.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1678225852-dffc0e8f3ec1b7a35bfb10cd5cc6d1c0-MZy52h8Xv91d6A5m6Td5KDM5n0aqhhlLvULE0Ihr-eb3600b6fe716d1c520c552f1101ed85",
 	  "user_agent": ""
     },
 	  {
@@ -222,7 +222,7 @@
       "title": "Kompas TV",
       "image": "https://i.ibb.co/4fJGnnf/kompas.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://live-kg.jixie.media/live/kompastv_lhd.m3u8",
+      "streaming_url": "https://www.youtube.com/watch?v=Za5-fvwbPJI",
 	  "user_agent": ""
     },
 	  {
@@ -240,7 +240,7 @@
       "title": "Berita Satu",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/beritasatu.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8",
+      "streaming_url": "https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8",
 	  "user_agent": ""
     },
 	  {
@@ -267,7 +267,7 @@
       "title": "ADI TV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/aditv.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/aditv.mp4",
+      "streaming_url": "https://v2.siar.us/aditv/livestream/chunks.m3u8",
 	  "user_agent": ""
     },
 	{
@@ -276,7 +276,7 @@
       "title": "Rodja TV",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/rodjatv.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "http://vids.rodja.tv:1935/live/rodja/chunklist_w1534883362.m3u8",
+      "streaming_url": "https://rodjatv.com/rodjatv/live_480p1128kbs/index.m3u8",
 	  "user_agent": ""
     },
 	{
@@ -294,7 +294,7 @@
       "title": "CBS News",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/cbsn.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/videos/stream/cbsn.mp4",
+      "streaming_url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8",
 	  "user_agent": ""
     }
   ],
