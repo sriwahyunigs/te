@@ -148,7 +148,7 @@
       "id": 6,
       "category": "Entertainment, National",
       "title": "Trans 7",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/trans7.png",
+      "image": "https://github.com/sriwahyunigs/img/raw/main/trans7.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
       "streaming_url": "https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8",
 	  "user_agent": ""
@@ -157,7 +157,7 @@
       "id": 7,
       "category": "Entertainment, National",
       "title": "Trans TV",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/transtv.png",
+      "image": "https://github.com/sriwahyunigs/img/raw/main/transtv.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
       "streaming_url": "https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8",
 	  "user_agent": ""
@@ -166,7 +166,7 @@
       "id": 8,
       "category": "Entertainment, National",
       "title": "GTV",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/gtv.png",
+      "image": "https://github.com/sriwahyunigs/img/raw/main/gtv.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
       "streaming_url": "https://d-gtv.rctiplus.id/gtv-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1678328088-c3fd7a130b496c5d26d701230d15062c-jrO59SYbQPGKzG6YTLhiw3pv2W4awmZ5lkaNGQah-50a40cd6cb8beaa3e81ae92077457a3e",
 	  "user_agent": ""
@@ -193,7 +193,7 @@
       "id": 11,
       "category": "News",
       "title": "TV ONE",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/tvone.png",
+      "image": "https://github.com/sriwahyunigs/img/raw/main/tvone.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
       "streaming_url": "http://210.210.155.35/session/8ada75ba-2f85-11eb-9529-b82a72d63267/qwr9ew/s/s105/01.m3u8",
 	  "user_agent": ""
@@ -211,7 +211,7 @@
       "id": 13,
       "category": "News",
       "title": "Metro TV",
-      "image": "https://i.ibb.co/h2JP83B/metro.png",
+      "image": "https://github.com/sriwahyunigs/img/raw/main/metrotv.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
       "streaming_url": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8",
 	  "user_agent": ""
@@ -220,11 +220,12 @@
       "id": 14,
       "category": "News",
       "title": "Kompas TV",
-      "image": "https://i.ibb.co/4fJGnnf/kompas.png",
+      "image": "https://github.com/sriwahyunigs/img/raw/main/kompastv.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
       "streaming_url": "https://www.youtube.com/watch?v=Za5-fvwbPJI",
 	  "user_agent": ""
     },
+	  
 	  {
       "id": 15,
       "category": "News, National",
