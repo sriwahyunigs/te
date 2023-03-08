@@ -103,7 +103,7 @@
       "id": 1,
       "category": "Entertainment, News, National",
       "title": "Indosiar",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/indosiar.png",
+      "image": "https://github.com/sriwahyunigs/img/raw/main/indosiar.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
       "streaming_url": "http://mpwtv.my.id/vidioye/205-indosiar.m3u8",
 	  "user_agent": ""
@@ -112,7 +112,7 @@
       "id": 2,
       "category": "Entertainment, National",
       "title": "MNC TV",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/mnctv.png",
+      "image": "https://github.com/sriwahyunigs/img/raw/main/mnctv.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
       "streaming_url": "https://d-mnctv.rctiplus.id/mnctv-sdi-avc1_450000=4-mp4a_96000=1.m3u8?auth_key=1678224022-9dd8281b79b5239e1ea4b4d328808cf1-OGdizHDnidXWyCS1CXDREiJeCCi7x0slTefYMvtz-a37d9af5973a243fb58dea4aece48a98",
 	  "user_agent": ""
@@ -121,7 +121,7 @@
       "id": 3,
       "category": "Entertainment, National",
       "title": "ANTV",
-      "image": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/12/26/4057488425.jpeg",
+      "image": "https://github.com/sriwahyunigs/img/raw/main/antv_keren.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
       "streaming_url": "http://210.210.155.37/qwr9ew/s/s07/index1.m3u8",
 	  "user_agent": ""
@@ -130,7 +130,7 @@
       "id": 4,
       "category": "Entertainment, National",
       "title": "RCTI",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/rcti.png",
+      "image": "https://github.com/sriwahyunigs/img/raw/main/rcti.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
       "streaming_url": "https://d-rcti.rctiplus.id/rcti-sdi-avc1_210000=3-mp4a_96000=1.m3u8?auth_key=1678225576-79953af8fdb34d386a0befc68cfba025-eymuTsBVW8OgDBR9Cbz09lepL02RXnyZNJIAC33Y-bf65b0c2322bce8410081fbfcd2e59d1",
 	  "user_agent": ""
@@ -139,7 +139,7 @@
       "id": 5,
       "category": "Entertainment, National",
       "title": "SCTV",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/channel/sctv.png",
+      "image": "https://github.com/sriwahyunigs/img/raw/main/sctv.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
       "streaming_url": "http://mpwtv.my.id/vidioye/204-sctv.m3u8",
 	  "user_agent": ""
@@ -175,7 +175,7 @@
       "id": 9,
       "category": "Entertainment, National",
       "title": "NET",
-      "image": "https://www.lyngsat.com/logo/tv/nn/net-id.png",
+      "image": "https://github.com/sriwahyunigs/img/raw/main/nettv.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
       "streaming_url": "http://rr2.dens.tv/s/s08/index.m3u8",
 	  "user_agent": ""
@@ -184,7 +184,7 @@
       "id": 10,
       "category": "Entertainment, National",
       "title": "RTV",
-      "image": "https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png",
+      "image": "https://github.com/sriwahyunigs/img/raw/main/rtv.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
       "streaming_url": "https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8",
 	  "user_agent": ""
@@ -202,7 +202,7 @@
       "id": 12,
       "category": "News",
       "title": "I News",
-      "image": "https://photos.live-tv-channels.org/tv-logo/inews-tv-5603-w360.webp",
+      "image": "https://github.com/sriwahyunigs/img/raw/main/inewstv.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
       "streaming_url": "https://d-inews.rctiplus.id/inews-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1678225852-dffc0e8f3ec1b7a35bfb10cd5cc6d1c0-MZy52h8Xv91d6A5m6Td5KDM5n0aqhhlLvULE0Ihr-eb3600b6fe716d1c520c552f1101ed85",
 	  "user_agent": ""
