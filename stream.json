@@ -349,7 +349,16 @@
       "title": "My Cinema Asia",
       "image": "https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "http://rr.dens.tv/h/h193/index.m3u8",
+      "streaming_url": "http://210.210.155.35/session/da39751e-c00d-11ed-991d-c81f66f89318/x6bnqe/h/h193/index.m3u8?app_type=web&userid=jjj&chname=My_Cinema_Asia",
+	  "user_agent": ""
+    },
+	  {
+      "id": 29,
+      "category": "Entertainment, News, National",
+      "title": "My Cinema Europe HD",
+      "image": "https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "http://210.210.155.35/session/dfea4768-bffe-11ed-8b6a-b82a72d63267/uq2663/h/h18/02.m3u8",
 	  "user_agent": ""
     }
   ],
