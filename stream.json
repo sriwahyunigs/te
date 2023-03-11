@@ -297,7 +297,34 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
       "streaming_url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8",
 	  "user_agent": ""
-    }
+    },
+	  {
+      "id": 23,
+      "category": "Entertainment, National",
+      "title": "MNC TV 1",
+      "image": "https://github.com/sriwahyunigs/img/raw/main/mnctv.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "https://www.rctiplus.com/tv/mnctv",
+	  "user_agent": ""
+    },
+	  {
+      "id": 24,
+      "category": "Entertainment, National",
+      "title": "Trans TV 1",
+      "image": "https://github.com/sriwahyunigs/img/raw/main/transtv.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "https://www.transtv.co.id/live",
+	  "user_agent": ""
+    },
+	  {
+      "id": 25,
+      "category": "Entertainment, News, National",
+      "title": "Indosiar 1",
+      "image": "https://github.com/sriwahyunigs/img/raw/main/indosiar.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "https://www.indosiar.com/#streaming",
+	  "user_agent": ""
+    },
   ],
   "more_apps": [
     {
