@@ -324,6 +324,33 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
       "streaming_url": "https://www.indosiar.com/#streaming",
 	  "user_agent": ""
+    },
+	  {
+      "id": 26,
+      "category": "Entertainment, National",
+      "title": "Celestial Movies HD",
+      "image": "https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "http://rr1.dens.tv/h/h14/index.m3u8",
+	  "user_agent": ""
+    },
+	  {
+      "id": 27,
+      "category": "Entertainment, National",
+      "title": "CCM (Celestial Classic Movies)",
+      "image": "https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "http://rr2.dens.tv/s/s31/index.m3u8",
+	  "user_agent": ""
+    },
+	  {
+      "id": 28,
+      "category": "Entertainment, News, National",
+      "title": "My Cinema Asia",
+      "image": "https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "http://rr.dens.tv/h/h193/index.m3u8",
+	  "user_agent": ""
     }
   ],
   "more_apps": [
