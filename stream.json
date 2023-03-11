@@ -132,7 +132,7 @@
       "title": "RCTI",
       "image": "https://github.com/sriwahyunigs/img/raw/main/rcti.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://d-rcti.rctiplus.id/rcti-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1678328048-4d4718bf5f4762e5f050cc83b4d7b28d-851kKdPXfpGiwZb1EoceoShonbpQHR7Ap9dk5G8y-bf0e2a71eab4c939fddeaeb3373e3b37",
+      "streaming_url": "https://d-rcti.rctiplus.id/rcti-sdi-avc1_800000=6-mp4a_96000=1.m3u8?auth_key=1678503170-6b325b58ea7f5b6c27da3a3dd1b32271-0-3f7db85ba421025a2fb398e2b3a20d9d",
 	  "user_agent": ""
     },
     {
@@ -304,7 +304,7 @@
       "title": "MNC TV 1",
       "image": "https://github.com/sriwahyunigs/img/raw/main/mnctv.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://www.rctiplus.com/tv/mnctv",
+      "streaming_url": "https://gdplayer.tv/embed/mnctv/",
 	  "user_agent": ""
     },
 	  {
