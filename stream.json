@@ -6,7 +6,7 @@
       "privacy_policy_url": "https://sites.google.com/view/solodroid-stream-privacy-policy",
       "email_feedback_and_report": "yourmail@gmail.com",
       "show_related_channels": true,
-      "enable_rtl_mode": true,
+      "enable_rtl_mode": false,
       "enable_exit_dialog": true,
       "enable_app_protection": false,
       "enable_vpn_access": true,
