@@ -331,7 +331,7 @@
       "title": "Celestial Movies HD",
       "image": "https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "http://210.210.155.35/session/52cce57a-c00d-11ed-99fb-c81f66f89318/dr9445/h/h14/02.m3u8",
+      "streaming_url": "https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/celestial.m3u8",
 	  "user_agent": ""
     },
 	  {
@@ -340,7 +340,7 @@
       "title": "CCM (Celestial Classic Movies)",
       "image": "https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "http://rr2.dens.tv/s/s31/index.m3u8?app_type=web&userid=jjj&chname=CCM_Celestial_Classic_MV-",
+      "streaming_url": "https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/celestial2.m3u8",
 	  "user_agent": ""
     },
 	  {
@@ -358,7 +358,7 @@
       "title": "My Cinema Europe HD",
       "image": "https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "http://210.210.155.35/session/dfea4768-bffe-11ed-8b6a-b82a72d63267/uq2663/h/h18/02.m3u8",
+      "streaming_url": "https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/mycinemaeurope.m3u8",
 	  "user_agent": ""
     }
   ],
