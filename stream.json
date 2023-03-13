@@ -387,6 +387,33 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
       "streaming_url": "https://github.com/sriwahyunigs/list/raw/main/tv5mondeasie.m3u8",
 	  "user_agent": ""
+    },
+	  {
+      "id": 33,
+      "category": "Entertainment, National",
+      "title": "beIN SPORT 1 HD",
+      "image": "https://imagizer.imageshack.com/img922/7580/Na8KFL.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "http://fiberlip.xyz:8080/bJe42QfXZk9t/5PBFYCQEqRVh/78345",
+	  "user_agent": ""
+    },
+	  {
+      "id": 34,
+      "category": "Entertainment, News, National",
+      "title": "beIN SPORT 2 HD",
+      "image": "https://imagizer.imageshack.com/img924/7494/NSCssb.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "http://fiberlip.xyz:8080/bJe42QfXZk9t/5PBFYCQEqRVh/76295",
+	  "user_agent": ""
+    },
+	  {
+      "id": 35,
+      "category": "Entertainment, News, National",
+      "title": "beIN SPORT 3 HD",
+      "image": "https://imagizer.imageshack.com/img922/9554/eFOyNm.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "http://fiberlip.xyz:8080/bJe42QfXZk9t/5PBFYCQEqRVh/76296",
+	  "user_agent": ""
     }
   ],
   "more_apps": [
