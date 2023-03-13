@@ -329,7 +329,7 @@
       "id": 26,
       "category": "Entertainment, National",
       "title": "Celestial Movies HD",
-      "image": "https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png",
+      "image": "http://www.dens.tv/images/channel-logo/99.jpg",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
       "streaming_url": "https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/celestial.m3u8",
 	  "user_agent": ""
@@ -338,7 +338,7 @@
       "id": 27,
       "category": "Entertainment, National",
       "title": "CCM (Celestial Classic Movies)",
-      "image": "https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png",
+      "image": "http://www.dens.tv/images/channel-logo/110.jpg",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
       "streaming_url": "https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/celestial2.m3u8",
 	  "user_agent": ""
@@ -347,18 +347,45 @@
       "id": 28,
       "category": "Entertainment, News, National",
       "title": "My Cinema Asia",
-      "image": "https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png",
+      "image": "http://www.dens.tv/images/channel-logo/109.jpg",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "http://210.210.155.35/session/da39751e-c00d-11ed-991d-c81f66f89318/x6bnqe/h/h193/index.m3u8?app_type=web&userid=jjj&chname=My_Cinema_Asia",
+      "streaming_url": "https://github.com/sriwahyunigs/list/raw/main/mycinemaasia.m3u8",
 	  "user_agent": ""
     },
 	  {
       "id": 29,
       "category": "Entertainment, News, National",
       "title": "My Cinema Europe HD",
-      "image": "https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png",
+      "image": "http://www.dens.tv/images/channel-logo/92.jpg",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
       "streaming_url": "https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/mycinemaeurope.m3u8",
+	  "user_agent": ""
+    },
+	  {
+      "id": 30,
+      "category": "Entertainment, National",
+      "title": "Quran TV",
+      "image": "http://www.dens.tv/images/channel-logo/82.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "https://github.com/AzeemHadzrie/misc/raw/main/m3u8/dens/quran.m3u8",
+	  "user_agent": ""
+    },
+	  {
+      "id": 31,
+      "category": "Entertainment, News, National",
+      "title": "Sunna TV",
+      "image": "http://www.dens.tv/images/channel-logo/88.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "https://github.com/AzeemHadzrie/misc/raw/main/m3u8/dens/sunnah.m3u8",
+	  "user_agent": ""
+    },
+	  {
+      "id": 32,
+      "category": "Entertainment, News, National",
+      "title": "TV5MONDE ASIE",
+      "image": "http://www.dens.tv/images/channel-logo/90.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "https://github.com/sriwahyunigs/list/raw/main/tv5mondeasie.m3u8",
 	  "user_agent": ""
     }
   ],
