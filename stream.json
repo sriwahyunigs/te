@@ -114,7 +114,7 @@
       "title": "MNC TV",
       "image": "https://github.com/sriwahyunigs/img/raw/main/mnctv.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
-      "streaming_url": "https://d-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=5-mp4a_96000=1.m3u8?auth_key=1678534298-fd4ad04082ca1e774139e764c1c690c3-8LoeLK1LoKjwG4iv3f2pTcQ8wHc7YJo95Iped6st-20f9d8d82a00a39e237be3a15d0011bf",
+      "streaming_url": "https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd",
 	  "user_agent": ""
     },
 	  {
