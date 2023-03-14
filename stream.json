@@ -414,6 +414,15 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
       "streaming_url": "http://fiberlip.xyz:8080/bJe42QfXZk9t/5PBFYCQEqRVh/76296",
 	  "user_agent": ""
+    },
+	  {
+      "id": 36,
+      "category": "Entertainment, News, National",
+      "title": "NET TV HD",
+      "image": "https://github.com/sriwahyunigs/img/raw/main/nettv.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Effluit igitur voluptas corporis et prima quaeque avolat saepiusque relinquit causam paenitendi quam recordandi. Duo Reges: constructio interrete.",
+      "streaming_url": "https://av-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd",
+	  "user_agent": ""
     }
   ],
   "more_apps": [
